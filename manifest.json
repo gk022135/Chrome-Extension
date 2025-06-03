@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Page Notes",
+  "version": "1.0",
+  "description": "Take notes for any website, saved by URL.",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon" : "notes extension.png"
+  }
+}
