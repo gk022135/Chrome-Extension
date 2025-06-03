@@ -17,10 +17,10 @@
 ## 🖥️ Screenshots
 
 ### Popup UI
-![Popup UI](screenshots/popup.png)
+![Popup UI](image.png)
 
 ### Saved Notes View
-![Saved Notes](screenshots/saved_notes.png)
+![Saved Notes](image copy.png)
 
 ---
 
