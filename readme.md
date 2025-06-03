@@ -71,7 +71,7 @@ web-notes-extension/
 
 ## 🛠️ Author
 
-Built by **[Your Name]**  
+Built by **[Gaurav Kumar]**  
 Feel free to fork, improve, and share!  
 
 > If you like it,  the repo!
